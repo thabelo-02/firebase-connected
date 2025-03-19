@@ -1,0 +1,5 @@
+# Ignore AppData and temporary files
+AppData/
+*.tmp
+.npm/
+node_modules/
